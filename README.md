@@ -12,6 +12,17 @@ Source: Kraggle
 
 Download Link: https://www.kaggle.com/datasets/dumanmesut/individual-carbon-footprint-calculation
 
+# How to Run (on Google Colab)
+
+Download the dataset .zip file from the UCI repository.
+
+Extract the contents locally.
+
+Upload the relevant file (e.g., online_retail_II.xlsx) to your Colab session.
+
+Open M516 (GH1028970).ipynb and run all cells to build and test the recommender system.
+
+
 # Requirements
 
 This notebook runs on Google Colab and uses:
@@ -45,4 +56,4 @@ Supervisor: Prof. Dr. Mazhar Hameed
 # License
 
 This project is for academic and non-commercial educational purposes only.
-Dataset used under the [Creative Commons Attribution 4.0 License.] (https://creativecommons.org/licenses/by/4.0/)
+Dataset used under the [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
