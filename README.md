@@ -12,6 +12,17 @@ Source: Kraggle
 
 Download Link: https://www.kaggle.com/datasets/dumanmesut/individual-carbon-footprint-calculation
 
+# Requirements
+
+This notebook runs on Google Colab and uses:
+
+-pandas
+-numpy
+-scikit-learn
+-matplotlib
+-scipy
+All required packages are pre-installed in Colab or can be installed using pip if needed.
+
 
 
 
