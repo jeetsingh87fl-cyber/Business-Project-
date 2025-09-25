@@ -16,11 +16,12 @@ Download Link: https://www.kaggle.com/datasets/dumanmesut/individual-carbon-foot
 
 This notebook runs on Google Colab and uses:
 
--pandas
--numpy
--scikit-learn
--matplotlib
--scipy
+1pandas
+2numpy
+3scikit-learn
+4matplotlib
+5scipy
+
 All required packages are pre-installed in Colab or can be installed using pip if needed.
 
 
